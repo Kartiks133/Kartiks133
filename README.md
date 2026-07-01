@@ -1,65 +1,45 @@
-# 💫 ABOUT ME
+# 💫 Kartik Shrivastava
 
-🌟 Hi there! I'm Kartik Shrivastava, a passionate B.Tech Computer Science and Engineering student at VIT Bhopal.  
-Honing my skills in both front-end (enthusiast) and back-end development — turning code into innovation.
-
-✨ I love building innovative solutions, diving deep into emerging tech, and making ideas real with every line of code.
+🌟 B.Tech CSE student @ VIT Bhopal | ML Intern @ BHEL | Building offline OCR + RAG systems
+🧠 I like turning raw data and documents into things that actually work — locally, without depending on the cloud.
 
 ---
 
-## 💻 Technologies & Tools
+## 💻 Tech Stack
 
-### Front-End:  
-🌐 HTML | CSS | JavaScript  
-Eager to master 🎨 React | Bootstrap | TailwindCSS
-
-### Back-End:  
-🛠️ Java (basics to DSA) | Python | Node.js | C++
-
-### Other Aims:  
-🖥️ Git | GitHub  
-📊 Matplotlib | NumPy | Pandas (Data Analysis)  
-🧠 Machine Learning Basics (scikit-learn, TensorFlow intro)  
-🗂️ SQL | MongoDB | Firebase  
+**Languages:** Python · Java · C++
+**ML / AI:** Scikit-learn · RAG · FAISS · Sentence Transformers · Pandas · NumPy
+**Backend:** FastAPI · Tesseract OCR · Ollama
+**Core:** Data Structures & Algorithms · OOP · DBMS
+**Tools:** Git · GitHub · VS Code
 
 ---
 
-## 📜 Certifications  
-📌 Learn JAVA Programming - Beginner to Master – Udemy 2024  
-📌 Python Essentials – VITYARTHI 2024  
-📌 MATLAB Onramp – MATHWORKS TRAINING SERVICES 2024  
+## 🛠️ Featured Project
+
+### 🔍 [Offline Intelligent Document Assistant](https://github.com/Kartiks133/Offline-OCR-Project)
+Built during my ML internship at BHEL — an offline OCR + RAG pipeline (Tesseract, FAISS, Sentence Transformers, Phi-3 via Ollama) that turns scanned documents into a searchable, queryable knowledge base with zero cloud dependency. Cuts document search time by an estimated 70–90%.
+
+`Python` `FastAPI` `FAISS` `Sentence Transformers` `Ollama`
 
 ---
 
-## 🚀 Current Focus  
-🌱 Preparing for term-end exams (especially Calculus!) while leveling up my Python and DSA skills.
+## 📂 Other Projects
 
----
-
-## 🎯 Fun Fact  
-🏓 When not coding, I'm smashing opponents in table tennis tournaments like a pro champ.  
+- 🧩 [**Autism Prediction System**](https://github.com/Kartiks133/Autism_Prediction_Software) — ML model predicting ASD from behavioural data (~85% accuracy)
+- 📈 [**Stock Price Prediction**](https://github.com/Kartiks133/Stock-price-prediction) — Regression model forecasting SBI stock prices
+- 🎙️ [**VIRA**](https://github.com/Kartiks133/VIRA) — Python + C++ voice assistant for real-time command processing
 
 ---
 
 ## 🚀 GitHub Stats
 
 ![Kartiks133's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kartiks133&show_icons=true&theme=dark)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kartiks133&theme=dark)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kartiks133&layout=compact&theme=dark)
 
-![Profile Trophy](https://github-profile-trophy.vercel.app/?username=Kartiks133&theme=dark)
-
 ---
 
-### 🌐 **Connect With Me**
+### 🌐 Connect
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kartik_s1_3)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kartik-shrivastava-a2078b322)  
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@K_Shri99142)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kartikshrivastava13)
 [![Email](https://img.shields.io/badge/Email-%23D44638.svg?logo=gmail&logoColor=white)](mailto:shrivastavakartik13@gmail.com)
-
----
-
-*Rooted in tradition, fueled by curiosity — coding the future, one keystroke at a time.* 🌳💻🚀
